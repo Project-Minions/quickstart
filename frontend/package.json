@@ -21,7 +21,7 @@
     "typescript": "^4.0.3",
     "web-vitals": "^0.2.4"
   },
-  "proxy": "http://localhost:8000",
+  "proxy": "http://plaidproxyserver-env-1.eba-jpkiu7tz.us-west-1.elasticbeanstalk.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
